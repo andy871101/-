@@ -1,29 +1,43 @@
-# .
+# 動態問卷
 
-This template should help get you started developing with Vue 3 in Vite.
+## 首頁
 
-## Recommended IDE Setup
+![](./README%20img/圖片1.png)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 使用者介面
 
-## Customize configuration
+### 混和搜尋
+### 分頁功能
+### 狀態進行中的話可以前往按鈕前往問卷填寫
+### 返回按鈕前往首頁
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![](./README%20img/圖片2.png)
 
-## Project Setup
+## 問卷內頁
 
-```sh
-npm install
-```
+### 問卷名稱
+### 問卷描述
+### 基本資料欄位填寫
+### 題目依據題型自動生成
 
-### Compile and Hot-Reload for Development
+![](./README%20img/圖片3.png)
 
-```sh
-npm run dev
-```
+## 問卷內頁
 
-### Compile and Minify for Production
+### 按下預覽不可修改
+### 送出存回資料庫
+### 上一步可進行修改
 
-```sh
-npm run build
-```
+![](./README%20img/圖片4.png)
+
+## 管理者介面
+
+### 基礎功能和使用者介面相同
+### 前往按鈕可以觀看填寫者列表
+### 未開始的問卷可以打勾後刪除
+
+![](./README%20img/圖片5.png)
+
+## 回覆者列表
+
+![](./README%20img/圖片6.png)
